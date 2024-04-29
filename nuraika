@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <h1 style="background-color:yellow;">Өзім туралы</h1>
+<p style="background-color:red;">Өзім жайлы айта кетсем, мен 20 қыркүйек 2006 жылы Жамбыл облысы. Меркі ауданында дүниеге келдім.Қазіргі таңда Алматы қаласында Абай атындағы Қазақ Ұлттық педагогикалық университеттінің 1 курс студентімін. Философия мамандығында білім аламын.</p>
+    <meta charset="UTF-8">
+        <title>Nurai Kulpamysh</title>
+    <style>
+        body {
+            background-color:softblue;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>Аты Кулпамыш Нурай</p>
+    <p>Phylosophi</p>
+    <a href="https://nkulpanys.wixsite.com/my-site-1">Электрондық партфолия</a>
+    <h1>Nurai Kulpamysh</h1>
+    <img src="nuraikulpamysh.jpg" alt="Nurai Kulpamysh">
+    
+</body>
+</html>
